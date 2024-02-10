@@ -1,6 +1,7 @@
 # Project-Perceptron
 
-Certainly! Here's a description you can use for your README:
+
+<img width="699" alt="Screenshot 2024-02-10 at 5 10 39 PM" src="https://github.com/ilhan2316/Project-Perceptron/assets/133736567/1e2273e3-3499-4456-924d-b2525b4be0b9">
 
 ---
 
